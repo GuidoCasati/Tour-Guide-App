@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">My Tour Guide App: ROME</string>
+
+    <string name="menu_eat">EAT</string>
+    <string name="menu_Sleep">SLEEP</string>
+    <string name="menu_See">SEE</string>
+    <string name="menu_Party">PARTY</string>
+
+    <!--EAT-->
+    <string name="eatTitle_01">La Pergola</string>
+    <string name="eatAddress_01">Via Alberto Cadlolo 101, 00136</string>
+    <string name="eatShortDesc_01">If expense is no object, or if you\'re the kind of foodie who likes to save up all year for a special meal, then dinner at La Pergola is a must.</string>
+    <string name="eatTitle_02">Antica Birreria Peroni</string>
+    <string name="eatAddress_02">Via San Marcello 19, 00187</string>
+    <string name="eatShortDesc_02">Roll out the barrel at this vintage Roman-style bierkeller, where crowds of appreciative locals and tourists pack in to dine on filling carb and meat fare, washed down with draught Peroni.</string>
+    <string name="eatTitle_03">Bar Necci dal 1924</string>
+    <string name="eatAddress_03">Via Fanfulla da Lodi 68, 00176</string>
+    <string name="eatShortDesc_03">Few tourists ever venture into Pigneto, where this uber-cool, all-day bar-restaurant is situated. But it’s well worth making the effort.</string>
+    <string name="eatTitle_04">La Torricella</string>
+    <string name="eatAddress_04">Via Evangelista Torricelli 2/12, 00153</string>
+    <string name="eatShortDesc_04">For years this was my local, and though I now live elsewhere coming here still feels like coming home.</string>
+
+    <!--SEE-->
+    <string name="seeTitle_01">Colosseum</string>
+    <string name="seeAddress_01">Piazza del Colosseo 1, 00184</string>
+    <string name="seeShortDesc_01">Half circus, half sports arena, Rome’s most famous classical ruin is unmissable.</string>
+    <string name="seeTitle_02">Domus Romane</string>
+    <string name="seeAddress_02">Via IV Novembre 119a, 00187</string>
+    <string name="seeShortDesc_02">Beneath the offices of the Rome provincial council lies a treat for anyone frustrated by the uncommunicative nature of many of the city\'s ruins.</string>
+    <string name="seeTitle_03">Doria Pamphilj Gallery</string>
+    <string name="seeAddress_03">Via del Corso 305, 00186</string>
+    <string name="seeShortDesc_03">The art collection of the aristocratic Doria Pamphilj (or Pamphili) family is truly magnificent, as is the palazzo where the works are still displayed according to a 1760 inventory.</string>
+    <string name="seeTitle_04">Vatican Museums</string>
+    <string name="seeAddress_04">Viale del Vaticano, 00165</string>
+    <string name="seeShortDesc_04">It\'s tempting to think of this vast repository as “the rooms full of papally collected or commissioned art that you have to schlep through to get to the Sistine Chapel”.</string>
+    <string name="seeTitle_05">Appian Way &amp; Catacombs</string>
+    <string name="seeAddress_05">Via Appia Antica 110/126, 00179</string>
+    <string name="seeShortDesc_05">Constructed from 312 BC to move troops and goods swiftly between the metropolis and the south, the Appian Way was also the well-off ancient Roman\'s burial venue of choice.</string>
+
+    <!--SLEEP-->
+    <string name="sleepTitle_01">Babuino 181</string>
+    <string name="sleepAddress_01">Via del Babuino, 181, 00187</string>
+    <string name="sleepShortDesc_01">The chic, pied-a-terre vibe of Babuino 181 is key to its top ranking as one of Rome’s best and most discreet hideaways.</string>
+    <string name="sleepTitle_02">Gran Melia Rome</string>
+    <string name="sleepAddress_02">Via del Gianicolo, 3, 00165</string>
+    <string name="sleepShortDesc_02">A former convent, built on the site of the suburban home of Emperor Nero\'s mother, this enviably located hotel in the heart of historic Rome is housed in a chic and sprawling villa, complete with panoramic cityscapes, verdant gardens and an outdoor pool.</string>
+    <string name="sleepTitle_03">Hotel Raphael</string>
+    <string name="sleepAddress_03">Largo Febo, 2, 00186</string>
+    <string name="sleepShortDesc_03">It’s all about the rooftop: with a 360-degree, eye-level view of the domes, bell towers and rooftops in Rome\'s historic centre, the Hotel Raphael has long been the city\'s most coveted spot for a sunset cocktail.</string>
+
+    <!--PARTY-->
+    <string name="partyTitle_01">Open Baladin</string>
+    <string name="partyAddress_01">Via degli Specchi 6, 00186</string>
+    <string name="partyShortDesc_01">This extraordinary designer beer bar not far from Largo Argentina shows just how far the Italian craft beer movement has come since the turn of the millennium. </string>
+    <string name="partyTitle_02">Said dal 1923</string>
+    <string name="partyAddress_02">Via Tiburtina 135, 00185</string>
+    <string name="partyShortDesc_02">Willie Wonka goes lounge in this trendy San Lorenzo bar/restaurant inside a chocolate factory and shop which, as the name suggests, was founded in 1923. Retro tables, armchairs and sofas are set out here and there, between vintage machinery and beautifully arranged displays of sweet treats.</string>
+    <string name="partyTitle_03">Sant\'Eustachio</string>
+    <string name="partyAddress_03">Piazza Sant\'Eustachio 82, 00186</string>
+    <string name="partyShortDesc_03">The tiny, standing-room-only \'Saint Eustace\' is a rite of passage for visitors to Rome, the café equivalent of the Colosseum. It\'s all in the coffee: if it\'s not the best in Rome it comes darn close, and the secrecy with which it\'s prepared, behind huge espresso machines with side-screens, only adds to the legend. </string>
+    <string name="partyTitle_04">Freni e Frizioni</string>
+    <string name="partyAddress_04">Via del Politeama 4/6, 00153</string>
+    <string name="partyShortDesc_04">Rome’s ultimate shabby chic bar, “Brakes and Clutches” takes its name from the auto workshop that once occupied the space. Many of the youngsters who crowd the place in the evening are here for the 7.30pm-10pm, mostly veggie aperitivo buffet – free for the price of a drink, and a good substitute for dinner if you pile that plate high.</string>
+    <string name="partyTitle_05">Micca Club</string>
+    <string name="partyAddress_05">Via dei Due Macelli, 75, 00187</string>
+    <string name="partyShortDesc_05">   After upping sticks from its basement quarters near the station at the end of 2013, Rome\'s premier burlesque and retro vinyl club has adopted an itinerant lifestyle, organising regular weekly appointments and one-nighters in a variety of key centro storico venues.</string>
+
+</resources>
